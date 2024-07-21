@@ -12,13 +12,13 @@ const projects: Project[] = [
   {
     title: "snake game 🐍",
     description: "This project is still under develeopment.",
-    link: "project-link-1",
+    link: "https://snake-game-955f6.web.app",
   },
-  {
-    title: "Special birthday card for a special friend 💝",
-    description: "Project descritpion goes here.",
-    link: "https://birthdaycard26.web.app",
-  },
+  //{
+   // title: "Special birthday card for a special friend 💝",
+   // description: "Project descritpion goes here.",
+    //link: "https://birthdaycard26.web.app",
+  //},
   {
     title: "chess game",
     description: "This project is as good as finished. There a still a few bugs that need to be fixed.",
