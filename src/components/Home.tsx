@@ -5,7 +5,7 @@ import "./Home.css";
 const Home: React.FC = () => {
   return (
     <section id="home">
-      <h1>Welcome to My Portfolio</h1>
+      <h1>Welcome to My Portfolio 💞</h1>
       <p>私のサイトにようこそ！</p>
     </section>
   );

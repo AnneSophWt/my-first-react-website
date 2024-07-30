@@ -10,15 +10,20 @@ interface Project {
 
 const projects: Project[] = [
   {
+    title: "TicTacToe",
+    description: "This was the first real project I developed.",
+    link: "https://cutetictactoe-3b244.web.app",
+  },
+  {
     title: "snake game 🐍",
     description: "This project is still under develeopment.",
     link: "https://snake-game-955f6.web.app",
   },
-  //{
-   // title: "Special birthday card for a special friend 💝",
-   // description: "Project descritpion goes here.",
-    //link: "https://birthdaycard26.web.app",
-  //},
+  {
+    title: "Special birthday card for a special friend 💝",
+    description: "Project descritpion goes here.",
+    link: "https://birthdaycard26.web.app",
+  },
   {
     title: "chess game",
     description: "This project is as good as finished. There a still a few bugs that need to be fixed.",
