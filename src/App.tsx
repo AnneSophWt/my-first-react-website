@@ -1,6 +1,6 @@
 // src/App.tsx
 import React from 'react';
-import Header from './components/Header';
+import Header from './components/navbar';
 import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
